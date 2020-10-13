@@ -1,4 +1,5 @@
 # cicd-test
+This is just a simple test repo for setting up a Vue.js CI/CD pipeline
 
 ## Project setup
 ```
